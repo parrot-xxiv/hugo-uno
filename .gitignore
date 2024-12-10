@@ -1,0 +1,19 @@
+# Hugo specific
+/public/
+/resources/
+
+# Tailwind specific
+/node_modules/
+/.vite/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE/editor config files
+.vscode/
+.idea/
+
+# Hugo cache and build files
+/hugo_cache/
+/themes/*/node_modules/
